@@ -11,11 +11,11 @@ CREATE TABLE STUDENTS(
     );
     
     INSERT INTO STUDENTS VALUES
-    (101,'VISHNU','CSE','CHENNAI'),         -- insert values
-    (102,'PRIYA','IT','DELHI'),
-    (103,'ABI','ECE','BANGALORE'),
-    (104,'BHUVI','CSE','CHENNAI'),
-    (105,'KETHSEY','BME','MUMBAI');
+    (101,'pavi','CSE','CHENNAI'),         -- insert values
+    (102,'Priya','IT','DELHI'),
+    (103,'dhanush','ECE','BANGALORE'),
+    (104,'siva','CSE','CHENNAI'),
+    (105,'babu','BME','MUMBAI');
     
     CREATE USER 'bharath@GMAIL.COM'                  -- create username and password
     IDENTIFIED BY 'bharath123';
